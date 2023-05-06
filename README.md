@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nnamdi Okoro
 - 👀 I’m interested in building amazing software solutions. I'm a Full Stack Software Engineer and currently focuses on Dart (Flutter), PHP (laravel) JavaScript (NodeJs) and system administration on AWS.
 - 🌱 I’m currently learning Micro-services with Node js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building sustainable ideas
 - 📫 You can reach me on nnamsok@gmail.com
